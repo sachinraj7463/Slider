@@ -296,7 +296,7 @@ button:focus {
 
 @media only screen and (min-width: 800px) {
   :root {
-    --card-width: 350px;
+    --card-width: 250px;
     --card-height: 400px;
   }
 }
